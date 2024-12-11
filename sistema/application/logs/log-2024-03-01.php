@@ -1,0 +1,102 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-03-01 02:48:46 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-03-01 05:56:02 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2024-03-01 05:56:04 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-03-01 05:56:05 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-03-01 08:53:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 08:54:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 08:54:31 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-03-01 08:57:39 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 09:07:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 09:11:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 09:59:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 10:10:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 10:36:00 --> Query error: Column 'PRIORIDADE' cannot be null - Invalid query: INSERT INTO `NOTICIASGERAL` (`DATA`, `HORA`, `TITULO`, `CHAMADA`, `CONTEUDO`, `FONTE`, `CATEGORIA`, `PRIORIDADE`, `LEGENDA`, `FLAG`, `FOTO`, `created_at`) VALUES ('2024-03-01', '10:23:00', 'Novo sistema FGTS Digital entra em vigor nesta sexta-feira', NULL, '<p style=\"margin-bottom: 1.3rem;\">Após seis meses de testes, a versão digital do Fundo de Garantia do Tempo de Serviço (FGTS Digital) entra em vigor nesta sexta-feira (1º). Totalmente eletrônica, a ferramenta substituirá o sistema Conectividade Social, da Caixa Econômica Federal, usado até agora pelas empresas para enviar informações do FGTS dos empregados.<img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1583720&amp;o=node\" style=\"border-style: none; max-width: 100%; height: 1px; width: 1px; display: inline;\"><img src=\"https://agenciabrasil.ebc.com.br/ebc.gif?id=1583720&amp;o=node\" style=\"border-style: none; max-width: 100%; height: 1px; width: 1px; display: inline;\"></p><p style=\"margin-bottom: 1.3rem;\">A plataforma permitirá que o empregador utilize o Pix (sistema de transferências instantâneas) para recolher o FGTS.</p><p style=\"margin-bottom: 1.3rem;\">A portaria que regulamenta a implementação e a operacionalização do FGTS Digital foi publicada na edição de hoje do&nbsp;<a href=\"http://www.in.gov.br/web/dou/-/portaria-mte-n-240-de-29-de-fevereiro-de-2024-546047596\" target=\"_blank\" style=\"transition: all 0.3s ease-in-out 0s;\">Diário Oficial da União</a>.&nbsp;Ao todo, 4,5 milhões de empregadores vão usar a plataforma para gerir os dados de mais de 50 milhões de trabalhadores.</p><p style=\"margin-bottom: 1.3rem;\">A expectativa do governo com o novo sistema é gerar economia para as empresas, com a redução da burocracia e do tempo para alimentar as informações do FGTS, e dar mais transparência sobre os depósitos do fundo para os trabalhadores.&nbsp;</p><p style=\"margin-bottom: 1.3rem;\">Segundo o Ministério do Trabalho e Emprego, o FGTS Digital melhorará a confiabilidade no sistema, ao agilizar a conversão dos depósitos no saldo individual da conta do trabalhador.&nbsp;</p><p style=\"margin-bottom: 1.3rem;\">O FGTS Digital usará o e-Social (banco eletrônico de dados dos empregados) como base de dados e também integrará informações do Pix Caixa, do Portal Gov.br e outros sistemas.&nbsp;Totalmente operado pela internet, o sistema terá várias opções para gerar guias e será responsável por todo o recolhimento mensal do FGTS e pelo pagamento de rescisões e multas rescisórias.</p><p style=\"margin-bottom: 1.3rem;\">Outras novidades do FGTS Digital são a rapidez do pagamento do FGTS em atraso, com a possibilidade de recolhimento de vários meses em uma única guia; o cálculo automático da multa do FGTS, com base no histórico de remunerações do e-Social; e a recomposição automática de salários de períodos anteriores e de pagamento da indenização compensatória.</p><p style=\"margin-bottom: 1.3rem;\">A nova plataforma também terá uma rubrica para que o trabalhador tome empréstimo consignado diretamente com os bancos, sem consulta ao empregador. O tomador utilizará a folha de pagamento como garantia.</p>', 'Agência Brasil', 'ECONOMIA', NULL, NULL, NULL, '09400432856beb7f4e7fe95735ba4cb6.jpg', '2024-03-01 10:36:00')
+ERROR - 2024-03-01 10:36:01 --> 404 Page Not Found: %22https:/agenciabrasil.ebc.com.br
+ERROR - 2024-03-01 10:36:01 --> 404 Page Not Found: %22https:/agenciabrasil.ebc.com.br
+ERROR - 2024-03-01 10:36:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 11:03:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 11:13:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 12:13:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 12:17:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 12:18:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 12:18:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 12:38:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 12:39:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 13:26:57 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-03-01 13:26:57 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-03-01 13:27:03 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:05 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:07 --> 404 Page Not Found: Vendor/.env
+ERROR - 2024-03-01 13:27:09 --> 404 Page Not Found: Vendor/.env
+ERROR - 2024-03-01 13:27:11 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:14 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:16 --> 404 Page Not Found: Admin/.env
+ERROR - 2024-03-01 13:27:17 --> 404 Page Not Found: Admin/.env
+ERROR - 2024-03-01 13:27:19 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:21 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:23 --> 404 Page Not Found: Envlive/index
+ERROR - 2024-03-01 13:27:24 --> 404 Page Not Found: Envlive/index
+ERROR - 2024-03-01 13:27:27 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:28 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:31 --> 404 Page Not Found: Envswp/index
+ERROR - 2024-03-01 13:27:32 --> 404 Page Not Found: Envswp/index
+ERROR - 2024-03-01 13:27:34 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:36 --> 404 Page Not Found: Wwwsistemasbnoticiascombr/.env
+ERROR - 2024-03-01 13:27:39 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2024-03-01 13:33:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 13:44:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 13:46:58 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 13:49:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 14:09:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 14:46:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 15:15:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:03:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:14:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:18:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:18:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:21:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:26:50 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:26:54 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2024-03-01 16:31:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:36:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 16:40:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 17:09:47 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-03-01 17:09:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 17:10:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 17:10:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 17:10:13 --> 404 Page Not Found: Galeria/favicon.ico
+ERROR - 2024-03-01 17:10:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 17:24:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 17:50:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 17:55:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 17:56:37 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:06:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:12:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:13:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:24:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:24:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:30:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:37:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 18:37:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 18:37:43 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-03-01 18:43:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 19:16:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 19:20:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 19:54:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 19:54:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 19:55:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 20:13:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 20:14:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 20:37:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 21:35:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 21:35:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 22:42:04 --> 404 Page Not Found: Wp-json/index
+ERROR - 2024-03-01 23:51:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-01 23:51:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 23:52:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 23:52:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 23:55:37 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-03-01 23:56:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-01 23:57:26 --> 404 Page Not Found: Assets/admin

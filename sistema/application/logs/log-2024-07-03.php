@@ -1,0 +1,75 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-07-03 07:13:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-07-03 07:15:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:27:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:27:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:27:48 --> 404 Page Not Found: Galeria/favicon.ico
+ERROR - 2024-07-03 07:33:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:33:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:33:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:33:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:34:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:34:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:34:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 07:34:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 08:22:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-07-03 08:22:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 08:22:29 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2024-07-03 08:24:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 08:30:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 08:54:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 08:54:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 09:00:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 09:01:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 09:08:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 09:22:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-07-03 09:23:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 09:39:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 09:39:50 --> Severity: Warning --> mysqli::real_connect(): php_network_getaddresses: getaddrinfo for bdsbnoticias.mysql.dbaas.com.br failed: Name or service not known /home/storage/9/44/9b/sbnoticias2/public_html/sistema/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-07-03 09:39:50 --> Severity: error --> Exception: php_network_getaddresses: getaddrinfo for bdsbnoticias.mysql.dbaas.com.br failed: Name or service not known /home/storage/9/44/9b/sbnoticias2/public_html/sistema/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-07-03 09:39:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 09:39:58 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 10:11:53 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-07-03 10:13:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 10:15:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 10:19:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 10:24:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 10:27:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 10:47:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 11:25:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 12:56:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 13:48:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 14:07:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 14:09:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 14:12:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 14:55:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 14:57:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 16:03:16 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 16:40:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 16:40:49 --> 404 Page Not Found: Politica/favicon.ico
+ERROR - 2024-07-03 16:41:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 16:41:43 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 16:48:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 17:07:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 17:07:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 17:08:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 17:10:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 17:10:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 17:26:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 17:33:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 18:16:40 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 18:22:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 18:24:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-07-03 18:24:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 18:24:54 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-07-03 18:56:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 19:01:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 19:08:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 19:22:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 19:50:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 19:50:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 19:50:18 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2024-07-03 19:50:31 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-07-03 19:50:31 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2024-07-03 21:41:50 --> 404 Page Not Found: Assets/admin

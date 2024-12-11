@@ -1,0 +1,81 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-03-28 08:05:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-28 08:05:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 08:05:34 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2024-03-28 08:07:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 08:11:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 09:35:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-28 09:36:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 09:37:06 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-03-28 09:38:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:09:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:10:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:10:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:13:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:21:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:22:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-28 10:45:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:47:39 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:52:50 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:53:14 --> Severity: Notice --> Trying to get property 'GALERIA' of non-object /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/controllers/Galeria.php 213
+ERROR - 2024-03-28 10:53:14 --> Severity: Notice --> Trying to get property 'ARQUIVO' of non-object /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/controllers/Galeria.php 215
+ERROR - 2024-03-28 10:56:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 10:56:40 --> Severity: Notice --> Trying to get property 'GALERIA' of non-object /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/controllers/Galeria.php 213
+ERROR - 2024-03-28 10:56:40 --> Severity: Notice --> Trying to get property 'ARQUIVO' of non-object /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/controllers/Galeria.php 215
+ERROR - 2024-03-28 11:20:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 11:26:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 13:48:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 13:48:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 13:51:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 13:59:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:07:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:07:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:14:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:43:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:43:37 --> 404 Page Not Found: Artigo/favicon.ico
+ERROR - 2024-03-28 14:43:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:48:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:48:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 14:52:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 15:47:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 15:47:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 15:53:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 16:39:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 16:55:37 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 16:59:57 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 17:16:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 17:19:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 17:19:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 17:20:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:12:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:21:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-28 18:21:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:22:02 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-03-28 18:23:49 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:23:58 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:24:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:26:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:27:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:28:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:30:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:31:31 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:32:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:33:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2024-03-28 18:35:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 18:50:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 20:31:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-28 20:32:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 20:35:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 20:35:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 20:35:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 20:57:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-03-28 20:58:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 20:58:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 21:01:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 21:03:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 21:37:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 21:38:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 21:38:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-03-28 23:03:06 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-03-28 23:03:29 --> 404 Page Not Found: Faviconico/index

@@ -1,0 +1,64 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-22 02:17:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-22 07:41:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-22 07:41:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 07:42:20 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-11-22 08:09:16 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 08:10:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 08:30:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 08:44:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 10:02:29 --> Query error: Column 'PRIORIDADE' cannot be null - Invalid query: INSERT INTO `NOTICIASGERAL` (`DATA`, `HORA`, `TITULO`, `CHAMADA`, `CONTEUDO`, `FONTE`, `CATEGORIA`, `PRIORIDADE`, `LEGENDA`, `FLAG`, `created_at`) VALUES ('2023-11-22', '10:02:00', 'GCM detém dois adolescentes na Av. Santa Bárbara com droga e moto adulterada', NULL, '<p class=\"MsoNoSpacing\">Dois adolescentes, de 16 anos, foram detidos por equipes\r\nda Guarda Civil Municipal de Santa Bárbara d’ Oeste no início da madrugada\r\ndesta quarta-feira (22), na Avenida Santa Bárbara. Conforme registrado em\r\nboletim de ocorrência, por volta das 00h45, os GCMs Alehandro e Brandão\r\nrealizavam patrulhamento <span style=\"font-size: 10.5pt; font-family: &quot;Segoe UI&quot;, &quot;sans-serif&quot;; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">pela Av. Santa Bárbara, e deparou com uma\r\nmotocicleta com dois indivíduos transitando na contramão e com o farol apagado.\r\n<o:p></o:p></span></p><p class=\"MsoNoSpacing\"><span style=\"font-size: 10.5pt; font-family: &quot;Segoe UI&quot;, &quot;sans-serif&quot;; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Ao perceber a viatura os suspeitos empreenderam\r\nfuga ignorando os sinais de parada e entrando no bairro Mollon, por diversas vias\r\ne foram abordados no cruzamento da Av. Santa Bárbara com a Rua do Couro.\r\nTentaram ainda fugir a pé, mas foram detidos. Com um deles foi localizada uma\r\nporção de maconha. <o:p></o:p></span></p><p>\r\n\r\n\r\n\r\n</p><p class=\"MsoNoSpacing\"><span style=\"font-size: 10.5pt; font-family: &quot;Segoe UI&quot;, &quot;sans-serif&quot;; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">A motocicleta estava com a numeração de chassi e\r\nmotor suprimidas e com uma placa falsa (BXV-6L61). O condutor e o passageiro\r\nforam conduzidos ao Plantão Policial, onde foi elaborado o boletim de\r\nocorrência de ato infracional por posse de entorpecentes e por conduzir veículo\r\ncom características de identificação adulterados. Em seguida, foram liberados\r\naos seus genitores e veículo foi recolhido ao pátio municipal.</span><o:p></o:p></p>', 'Redação', 'POLÍCIA', NULL, '(Foto: Divulgação GCM SBO)', NULL, '2023-11-22 10:02:29')
+ERROR - 2023-11-22 10:08:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 10:10:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 10:15:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 10:28:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 11:06:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 12:15:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 12:17:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 12:59:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 13:00:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 14:01:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-22 14:01:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 14:03:02 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-11-22 14:06:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 14:14:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 14:14:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 14:14:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 14:35:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 14:35:18 --> Severity: Warning --> unlink(/home2/sbnoticias/domains/sbnoticias.com.br/public_html/tickers/imagens/): Is a directory /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/controllers/Noticias.php 209
+ERROR - 2023-11-22 14:35:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 15:01:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 15:12:06 --> Query error: Column 'FONTE' cannot be null - Invalid query: INSERT INTO `NOTICIASGERAL` (`DATA`, `HORA`, `TITULO`, `CHAMADA`, `CONTEUDO`, `FONTE`, `CATEGORIA`, `PRIORIDADE`, `LEGENDA`, `FLAG`, `FOTO`, `created_at`) VALUES ('2023-11-22', '15:01:00', 'Prefeitura de Americana promove ação de Educação no Trânsito no Parque Ecológico', NULL, '<p>A Prefeitura de Americana, por meio da Unidade de Transportes e Sistema Viário (Utransv), promove uma ação de educação no trânsito com crianças no Parque Ecológico Municipal \"Engenheiro Cid Almeida Franco\" - Zoo Americana neste sábado (25), das 9h às 12h.<br style=\"\"><br style=\"\">O projeto Educação no Trânsito realizará, a partir das 9h45, diversas atividades, como a Cidade Mirim, um circuito com pista, semáforos, bicicletas e carrinhos confeccionados de papelão, e um jogo de tabuleiro em escala real, doado pela empresa Eduardo Móveis.<br style=\"\"><br style=\"\">A partir das 10h30, acontecerá a Hora de Colorir, onde as crianças poderão fazer desenhos sobre educação no trânsito. Em seguida, será realizado o bingo de trânsito.<br style=\"\"><br style=\"\">Para encerrar, todas as crianças participantes receberão uma lembrancinha surpresa. O projeto Educação no Trânsito é idealizado e realizado pelos servidores municipais da Utransv.<br style=\"\"><br style=\"\">\"Estamos intensificando as ações voltadas ao trânsito. Temos a preocupação de diminuir cada vez mais os acidentes nas vias de Americana, melhorando as sinalizações, o trabalho de conscientização e educando as nossas crianças\", ressalta o secretário de Obras e Serviços Urbanos (Sosu), Adriano Alvarenga Camargo Neves.<br style=\"\"><br style=\"\">Em homenagem ao Dia Mundial em Memória das Vítimas de Acidentes de Trânsito, lembrado em 19 de novembro, a Prefeitura de Americana, por meio de parceria entre Sosu, Utransv e Secretaria de Meio Ambiente, também realizará o plantio de uma muda de Ipê Branco no Parque Ecológico às 9h.<br style=\"\"><br style=\"\">São homenageadas não só as pessoas que morreram em decorrência de acidentes, mas também familiares, amigos, equipes de emergência, policiais, enfermeiros e médicos que lidam diariamente com as consequências traumáticas das mortes e lesões no trânsito.<br style=\"\"><br style=\"\">\"Essa ação tem o objetivo de conscientizar motoristas e pedestres, além da necessidade urgente de ações para diminuir ou conter essas fatalidades, e uma maneira é educar nossas crianças com aprendizado e respeito no trânsito\", diz o secretário adjunto de Trânsito, Marcelo Giongo.<br style=\"\"><br style=\"color: rgb(33, 37, 41); font-family: Lato, sans-serif; font-size: 16px;\"></p>', NULL, 'EDUCAÇÃO', '2', '(Foto: Divulgação PM Americana)', NULL, 'dbc5fba6325a33fed73038d4f2fdf6dc.jpg', '2023-11-22 15:12:06')
+ERROR - 2023-11-22 15:13:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 15:16:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 15:16:12 --> 404 Page Not Found: Politica/favicon.ico
+ERROR - 2023-11-22 15:16:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 15:40:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 15:40:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 16:00:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 16:32:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 16:39:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 16:39:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 16:39:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 16:55:50 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 17:02:40 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 17:56:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-22 17:57:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 18:09:36 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-11-22 18:13:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 18:17:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 18:25:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 18:57:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-11-22 18:57:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 18:57:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 18:57:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 18:57:44 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-11-22 19:00:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 19:00:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 19:00:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 19:03:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 19:17:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 19:32:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 19:37:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-11-22 20:09:28 --> 404 Page Not Found: Assets/admin

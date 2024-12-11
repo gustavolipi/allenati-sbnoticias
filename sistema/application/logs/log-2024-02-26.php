@@ -1,0 +1,73 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-26 08:12:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-26 08:13:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:14:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:16:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:16:31 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2024-02-26 08:22:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:26:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:27:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-26 08:28:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:28:29 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-02-26 08:29:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:30:43 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:31:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:34:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:34:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 08:56:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 09:04:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 09:04:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 09:04:37 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 09:05:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 09:05:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 09:05:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 09:26:19 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-02-26 09:26:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-26 09:26:24 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-02-26 09:26:24 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-02-26 09:43:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:33:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:33:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:33:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:33:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:33:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:34:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:36:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 10:48:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 11:38:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 11:38:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 12:34:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 12:38:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 12:55:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 12:57:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 13:29:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 13:45:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 15:21:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 15:35:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 15:42:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 15:46:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 15:48:40 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 15:50:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 16:24:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 16:35:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 17:21:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 17:25:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 17:27:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 18:39:52 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-02-26 18:39:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-26 18:39:58 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 18:44:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 18:44:31 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-02-26 18:47:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 18:48:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 18:48:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 18:56:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 19:02:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 19:02:57 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 19:03:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 19:06:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 19:11:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 19:23:39 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 21:51:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-26 21:54:27 --> 404 Page Not Found: Assets/admin

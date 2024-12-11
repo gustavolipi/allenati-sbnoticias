@@ -1,0 +1,64 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-05 08:42:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-05 08:43:16 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 08:43:39 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-04-05 08:44:58 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 08:46:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 08:51:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 09:21:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-05 09:21:16 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 09:21:24 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2024-04-05 09:47:57 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 10:21:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 10:33:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 10:35:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 10:40:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 10:48:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 10:58:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 10:59:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 11:15:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 11:38:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 14:28:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-05 14:28:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 14:29:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-05 14:29:39 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 14:29:53 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-04-05 14:30:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 14:36:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 14:39:49 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-04-05 14:41:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 14:42:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 14:57:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 15:00:37 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2024-04-05 15:36:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 15:48:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 15:58:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 16:53:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 16:53:40 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 16:53:43 --> 404 Page Not Found: Politica/favicon.ico
+ERROR - 2024-04-05 16:54:32 --> Query error: Column 'PRIORIDADE' cannot be null - Invalid query: INSERT INTO `NOTICIASGERAL` (`DATA`, `HORA`, `TITULO`, `LEGENDA`, `CONTEUDO`, `TIPO`, `CATEGORIA`, `PRIORIDADE`, `created_at`) VALUES ('2024-04-05', '18:00:00', 'Santa Bárbara tem 19 partidos/federações aptos a disputar as eleições de 2024, segundo o TRE', NULL, '<p class=\"MsoNormal\">Santa Bárbara tem 19 partidos/federações aptos a disputar as\r\neleições de 2024, segundo o TER<o:p></o:p></p><p class=\"MsoNormal\">I – Segundo o site&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\ndo TER de São Paulo, a cidade de Santa BHárbara d’ Oeste, tem 19\r\npartidos/federações aptos a dispuityar as eleições municipais de 2-024. Claro\r\nque a grande maioria desses partidos foi coinstituida na cidade, após grande\r\nperíodo de negociação junto com sua direção estadual. Essa negociação tem\r\ntambém como um dos principaisd motivos para abrigar seus candidatos a vereador.\r\n<o:p></o:p></p><p class=\"MsoNormal\">Analisando esses partidos constituídos na cidade, a novidade\r\né o PP, que segundo o meio político estava apalavrado com o grupo do Dr José,\r\npassou para o grupo do Rafael Piovezan, tendo com seu novo presidente, a parti\r\nde 01/04/2024, o irmão do ex-prefeito Denis Andia e atual secretaroa\r\nsuperujtyendendt do DFAE, Laercen Andoa Junior. <o:p></o:p></p><p class=\"MsoNormal\">&nbsp;Os demais emmvros da\r\nComissão Executiva dop PP no município são comissionados da adm Rafael (como\r\ncarlapadovani, Miguel brito, pauloi barbosa, rodrigo maeilo e silvia oliveoira<o:p></o:p></p><p class=\"MsoNormal\">Outro partido novo na cidade é o PRD (d FUSÃO DO Patriota e\r\nPTB), que também é comkandado por comissionados do prefeito de santa\r\nbarbara.&nbsp; O presidente é o sdecretatio de\r\nmeio ambiente , cleber canteiro. Dewmais mem,bros são: André cruz e o jornaluisrta\r\nÉder Chamorra. També m o partido DC tem na comissão executiva provisória&nbsp; poessoas ligadas ao secretariao de governo joel\r\ncardoso. <o:p></o:p></p><p class=\"MsoNormal\">&nbsp;Se os partido que\r\nestarão com o prefeito Rafael Piovezan, em sua maioria são comandados por\r\nfuncionários comissionados da Prefeituras, a candidatura do dr. José, tem na\r\nfamília Fontes po comando da maioria dos partidos que estarão na sua base de\r\napoio. Uni~çao Brasil, o presdidnete atual é o Marcos Fontes, . o partir Agir\r\ntem ouyutro flho do vereador Fontesw como vice presidente. O partido PMB\r\n(Paretido da Miluher Brasuleut)&nbsp; trm na\r\nsua esposa doi fontes, Ivone de Moares P. Fontes, como tesoureira.&nbsp; Do partido. <o:p></o:p></p><p class=\"MsoNormal\">II – Outro partido que tev troca de comando no município foi\r\na federação PSDC/CidADANIA. Essa troca negociada com a famúilia Macris, de\r\nAmericana, passará a apoiar a candidatura do dr. José. O novo presidente do\r\nPSDB do município é Jurandir João Franco e do Cidadania é Lucar Martins Meira. <o:p></o:p></p><p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p><p class=\"MsoNormal\">III - Pelas projeções atuais a coligação do prefeito Rafael\r\nPiovezan é que terá a maioria dos partidos: PL; Mobiliza; Avante; Republicanos;\r\nDC; MSB; PRD; Solidariedade e PP. A coligação do Dr. José terá o apoio dos partidos:\r\nUnião Brasil; Agir, PMB, e da federação PSDB/Cidadania. O pré-candidato Eliel\r\nMiranda deve ter candidatura do PSD. &nbsp;<o:p></o:p></p><p class=\"MsoNormal\">Esses partidos ainda não manifestaram apoio a nenhum desses\r\ncandidartso, podendo até a ter mais um candidato ligado a partidos de esquerda\r\n, que são: federação PT/PV, PC do B; PSB, PDT, PSOL e o Podemos. Existe um\r\ncomentário que partidos de esqueda poderão se unir para lançar um candidato,\r\nque seria de apoio aqo candidato RafaEL Piovezan, pois quanso mais candidatos,\r\na chande do conadidato da base é maior. <o:p></o:p></p><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><p class=\"MsoNormal\">IV – Agora vamos mostrar um pouc o quadro da eleiç~são de\r\nvereadores (proporcional)(. No total , como jha mosytramos acima a cidade tem\r\n19 partidos e deferações aptas a disputar as eleições e, com as mudanças na\r\nlkegiuslação eleitoral, dificulmente teremos partido que eleja três vereadpor5tes.\r\nVeja o exemplo, se apenas 15 dessas 119 partidos/federações venha disputar as\r\neleições proporcionais (alguns não terão chapas de vereadores, apenas estará\r\napoiando o candidato a prefeito) e conseguir atingir um mínimo de 3.500 votos\r\nno total, todos farão no mínimo um candidato, sendo assim sobvrandop os 4\r\núltimos vagas para os 4 partidos, que terão mais votos , um para cada um.&nbsp; Fazendo dessa forma uma Câmara com vereadores\r\nde 15 partidosd, sendo 4 deles&nbsp; com dois\r\nvereadores casa e os demais 11 partidos com 1 vereador eleito cada. É só\r\nanalisar o quadreo da cidade e a legislação eleitoral.<o:p></o:p></p>', 'papo-de-politica', 'POLITICA', NULL, '2024-04-05 16:54:32')
+ERROR - 2024-04-05 16:56:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 16:59:39 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 17:00:02 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-04-05 17:35:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 17:37:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 17:56:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 18:01:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 19:16:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-04-05 19:16:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 19:16:52 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-04-05 19:19:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 19:30:16 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 19:34:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 19:39:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 20:18:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 20:18:39 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 20:21:12 --> Query error: MySQL server has gone away - Invalid query: SHOW COLUMNS FROM `NOTICIASGERAL`
+ERROR - 2024-04-05 20:24:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 20:31:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 21:01:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 21:28:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 22:41:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 22:53:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-04-05 22:54:28 --> 404 Page Not Found: Assets/admin

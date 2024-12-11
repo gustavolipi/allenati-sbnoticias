@@ -1,0 +1,65 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-12-27 08:02:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-27 08:03:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 08:04:00 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-12-27 08:05:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 08:11:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 09:12:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 09:14:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 09:49:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 10:47:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 10:56:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 10:56:50 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 11:00:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 12:05:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 12:29:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 12:40:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 13:09:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 13:12:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 13:55:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-27 13:55:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 14:23:58 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-12-27 14:26:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 14:39:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 14:39:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 14:40:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 14:43:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 14:48:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 15:01:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 16:41:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-27 16:41:49 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 16:46:11 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-12-27 16:49:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 17:38:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 17:38:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 17:49:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 17:52:49 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 17:53:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 17:53:26 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2023-12-27 17:58:57 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 17:59:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:00:02 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2023-12-27 19:02:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-27 19:02:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:02:46 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2023-12-27 19:05:58 --> Severity: Notice --> Trying to access array offset on value of type null /home2/sbnoticias/domains/sbnoticias.com.br/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2023-12-27 19:05:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-27 19:06:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:06:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:06:10 --> 404 Page Not Found: Galeria/favicon.ico
+ERROR - 2023-12-27 19:06:43 --> Query error: Column 'DESCRICAO' cannot be null - Invalid query: INSERT INTO `GALERIAS` (`DATA`, `TITULO`, `DESCRICAO`, `CATEGORIA`, `COLUNA`, `DISPONIBILIDADE`, `AUTOR`, `VIDEO`, `usuario_id`, `created_at`) VALUES ('2023-12-30', 'Viagem Réveillon 2024', NULL, 'Social', 'Social ', '1', 'Redação ', NULL, NULL, '2023-12-27 19:06:43')
+ERROR - 2023-12-27 19:06:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:06:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:06:58 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:10:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-27 19:16:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:22:50 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 19:58:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 20:01:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 20:08:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 20:12:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 20:21:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-12-27 20:21:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 20:27:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2023-12-27 21:02:50 --> 404 Page Not Found: Assets/admin

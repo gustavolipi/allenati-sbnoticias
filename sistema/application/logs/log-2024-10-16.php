@@ -1,0 +1,60 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-10-16 08:15:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-16 08:16:12 --> 404 Page Not Found: Falecimento/favicon.ico
+ERROR - 2024-10-16 08:56:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 08:56:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-16 08:56:35 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2024-10-16 09:03:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 09:03:57 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-10-16 10:21:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 10:35:57 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 11:04:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2024-10-16 11:25:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 11:40:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 11:43:43 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 11:45:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 12:09:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 12:09:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-16 12:09:03 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-10-16 12:21:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 13:01:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 13:05:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 13:14:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 13:16:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 13:17:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 13:17:24 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2024-10-16 13:17:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 13:17:30 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2024-10-16 15:36:25 --> 404 Page Not Found: Falecimento/favicon.ico
+ERROR - 2024-10-16 15:38:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 16:01:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 16:04:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 17:40:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 17:43:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:00:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:06:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:14:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:14:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:14:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-16 18:14:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:15:02 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-10-16 18:18:26 --> 404 Page Not Found: Falecimento/favicon.ico
+ERROR - 2024-10-16 18:45:40 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:53:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 18:56:10 --> Severity: error --> Exception: Column 'FONTE' cannot be null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/system/database/drivers/mysqli/mysqli_driver.php 307
+ERROR - 2024-10-16 18:56:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:03:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:06:50 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:22:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:22:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:27:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:32:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:59:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 19:59:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-16 19:59:28 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-10-16 20:07:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 20:53:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-16 20:53:12 --> 404 Page Not Found: Falecimento/favicon.ico
+ERROR - 2024-10-16 21:23:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-10-16 21:23:12 --> 404 Page Not Found: Noticias/favicon.ico

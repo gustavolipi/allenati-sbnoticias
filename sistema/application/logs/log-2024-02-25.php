@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-25 09:56:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-02-25 09:56:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 09:56:06 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-02-25 10:08:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 10:13:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 10:25:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 12:05:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 13:27:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 13:44:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 14:37:05 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 14:52:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 15:27:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 16:08:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 17:09:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 18:06:23 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 18:08:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:16:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:16:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:16:11 --> 404 Page Not Found: Galeria/favicon.ico
+ERROR - 2024-02-25 19:17:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:17:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:17:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:18:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:18:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:18:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:18:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:18:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 19:18:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 21:33:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-02-25 21:59:44 --> 404 Page Not Found: Wp-loginphp/index
