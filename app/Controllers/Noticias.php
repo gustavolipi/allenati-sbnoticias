@@ -114,26 +114,26 @@ class Noticias extends BaseController
       $qCount   = $db->query($sqlCount);
       $count = $qCount->getRow();
     } else {
-      $sql = "SELECT ID, FOTO, CATEGORIA, TRIM(TITULO) AS TITULO, CONTEUDO, DATE_FORMAT(FROM_UNIXTIME(DataHoraInt), '%d/%m/%Y %H:%i') AS DATACOMPLETA
+        $sql = "SELECT ID, FOTO, CATEGORIA, TRIM(TITULO) AS TITULO, CONTEUDO, DATE_FORMAT(FROM_UNIXTIME(DataHoraInt), '%d/%m/%Y %H:%i') AS DATACOMPLETA
                 FROM NOTICIASGERAL WHERE DataHoraInt <= UNIX_TIMESTAMP(NOW()) ";
-      if ($tipo == 'papo-de-politica') {
-        $sql .= " AND TIPO = 'papo-de-politica' ";
-      } else if ($tipo == 'esporte') {
-        $sql .= " AND TIPO = 'esportes' ";
-      } else {
-        $sql .= " AND TIPO != 'esportes' AND TIPO != 'papo-de-politica' ";
-      }
-      $sql .= "ORDER BY DataHoraInt DESC LIMIT $initPage, $perPage";
+        if ($tipo == 'papo-de-politica') {
+            $sql .= " AND TIPO = 'papo-de-politica' ";
+        } else if ($tipo == 'esporte') {
+            $sql .= " AND TIPO = 'esportes' ";
+        } else {
+            $sql .= " AND TIPO != 'esportes' AND TIPO != 'papo-de-politica' ";
+        }
+        $sql .= "ORDER BY DataHoraInt DESC LIMIT $initPage, $perPage";
 
-      $sqlCount = "SELECT COUNT(*) AS TOTAL FROM NOTICIASGERAL WHERE DataHoraInt <= UNIX_TIMESTAMP(NOW()) AND TIPO != 'papo-de-politica' ";
-      if ($tipo == 'esporte') {
-        $sqlCount .= " AND TIPO = 'esportes' ";
-      } else {
-        $sqlCount .= " AND TIPO != 'esportes' ";
-      };
+        $sqlCount = "SELECT COUNT(*) AS TOTAL FROM NOTICIASGERAL WHERE DataHoraInt <= UNIX_TIMESTAMP(NOW()) AND TIPO != 'papo-de-politica' ";
+        if ($tipo == 'esporte') {
+            $sqlCount .= " AND TIPO = 'esportes' ";
+        } else {
+            $sqlCount .= " AND TIPO != 'esportes' ";
+        };
 
-      $qCount   = $db->query($sqlCount);
-      $count = $qCount->getRow();
+        $qCount = $db->query($sqlCount);
+        $count = $qCount->getRow();
     }
 
     //NOTICIAS ULTIMAS
@@ -154,7 +154,6 @@ class Noticias extends BaseController
     );
 
     $retorno['seo'] = $seo;
-
 
     // echo "<pre>";
     // print_r($retorno);

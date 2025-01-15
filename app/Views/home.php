@@ -1,5 +1,8 @@
 <?= view('templates/header', array()) ?>
 <?= view('templates/publicidade', array('tipo' => 'fullbanner-small')) ?>
+
+
+
 <main class="home">
 
     <?php
@@ -62,6 +65,10 @@
         </div>
     <?php
     }
+    ?>
+
+    <?php
+    echo view('templates/chamada-placar');
     ?>
 
     <div class="chamadas">

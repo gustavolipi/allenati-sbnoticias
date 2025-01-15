@@ -1,5 +1,12 @@
 <?= view('templates/header', array()) ?>
 <?= view('templates/publicidade', array('tipo' => 'fullbanner-small')) ?>
+
+<?php
+if($tipo == 'esportes' || $tipo == 'esporte'){
+    echo view('templates/chamada-placar');
+}
+?>
+
 <main class="interno noticias">
 
     <div class="conteudo">

@@ -81,8 +81,7 @@ header .container nav ul {
   list-style: none;
   display: flex;
   align-items: center;
-  -moz-column-gap: 15px;
-       column-gap: 15px;
+  column-gap: 15px;
 }
 header .container nav ul li {
   position: relative;
@@ -110,8 +109,7 @@ header .container .acessos {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  -moz-column-gap: 15px;
-       column-gap: 15px;
+  column-gap: 15px;
 }
 header .container .acessos .chamada-radio {
   cursor: pointer;
@@ -124,8 +122,7 @@ header .container .acessos .redes {
   display: flex;
   align-items: center;
   justify-content: center;
-  -moz-column-gap: 10px;
-       column-gap: 10px;
+  column-gap: 10px;
   font-size: 24px;
   color: #095e4a;
 }
@@ -139,8 +136,7 @@ header .container .acessos nav {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  -moz-column-gap: 15px;
-       column-gap: 15px;
+  column-gap: 15px;
 }
 .publicidade {
   width: 100%;
@@ -187,7 +183,6 @@ main .chamadaTitulo h2 {
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  width: -moz-min-content;
   width: min-content;
 }
 main .chamadas {
@@ -196,10 +191,8 @@ main .chamadas {
 main .chamadas .chamadaConteudo {
   width: 100%;
   height: 220px;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   transition: all 0.5s ease-out;
 }
 main .chamadas .chamadaLink {
@@ -248,10 +241,8 @@ main .chamadas .memorias .chamadaConteudo a .image {
 main .chamadas .memorias .chamadaConteudo a .image img {
   width: 100%;
   height: 230px;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   transition: all 0.5s ease-out;
 }
 main .chamadas .memorias .chamadaConteudo a .info {
@@ -305,10 +296,8 @@ main .chamadas .social .chamadaConteudo a .image {
 main .chamadas .social .chamadaConteudo a .image img {
   width: 100%;
   height: 230px;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   transition: all 0.5s ease-out;
 }
 main .chamadas .social .chamadaConteudo a .info {
@@ -397,8 +386,7 @@ main .chamadas .radio .chamadaConteudo video {
   background-image: url(../layout/img/loading-radio-brasilfm.jpg);
   background-position: center center;
   background-size: cover;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 main .chamadas .radio .chamadaLink {
   background-color: #ffed00;
@@ -416,8 +404,7 @@ main .ultimasNoticias article {
 main .ultimasNoticias article a {
   display: grid;
   grid-template-columns: 380px 1fr;
-  -moz-column-gap: 15px;
-       column-gap: 15px;
+  column-gap: 15px;
 }
 main .ultimasNoticias article a figure {
   height: 200px;
@@ -429,10 +416,8 @@ main .ultimasNoticias article a figure {
 main .ultimasNoticias article a figure img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   transition: all 0.5s ease-out;
 }
 main .ultimasNoticias article a .info {
@@ -490,15 +475,13 @@ main .conteudomaislidads {
 main .conteudomaislidads .noticiasMaisLidas {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  -moz-column-gap: 30px;
-       column-gap: 30px;
+  column-gap: 30px;
   row-gap: 30px;
 }
 main .conteudomaislidads .noticiasMaisLidas article a {
   display: grid;
   grid-template-columns: 100px 1fr;
-  -moz-column-gap: 10px;
-       column-gap: 10px;
+  column-gap: 10px;
 }
 main .conteudomaislidads .noticiasMaisLidas article a figure {
   height: 80px;
@@ -510,10 +493,8 @@ main .conteudomaislidads .noticiasMaisLidas article a figure {
 main .conteudomaislidads .noticiasMaisLidas article a figure img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   transition: all 0.5s ease-out;
 }
 main .conteudomaislidads .noticiasMaisLidas article a .info {
@@ -601,10 +582,8 @@ main.home .destaques .owl-destaques .owl-item a {
 main.home .destaques .owl-destaques .owl-item a img {
   height: 50vh;
   width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center top;
-     object-position: center top;
+  object-fit: cover;
+  object-position: center top;
   transition: all 0.5s ease-out;
 }
 main.home .destaques .owl-destaques .owl-item a .info {
@@ -670,10 +649,8 @@ main.home .destaques .outros a .thumb {
 main.home .destaques .outros a .thumb img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   transition: all 0.5s ease-out;
 }
 main.home .destaques .outros a .info {
@@ -786,15 +763,13 @@ main.home .conteudo.conteudoartigos {
 main.home .conteudo.conteudoartigos .artigos {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  -moz-column-gap: 30px;
-       column-gap: 30px;
+  column-gap: 30px;
   row-gap: 15px;
 }
 main.home .conteudo.conteudoartigos .artigos article a {
   display: grid;
   grid-template-columns: 1fr;
-  -moz-column-gap: 10px;
-       column-gap: 10px;
+  column-gap: 10px;
 }
 main.home .conteudo.conteudoartigos .artigos article a .info {
   padding: 0px;
@@ -849,10 +824,8 @@ main.interno.revista .fotos .foto figure {
 main.interno.revista .fotos .foto figure img {
   width: 100%;
   height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   transition: all 0.5s ease-out;
 }
 main.interno.revista .fotos .foto:hover figure img {
@@ -878,10 +851,8 @@ main.interno.noticia article figure {
 main.interno.noticia article figure img {
   width: 100%;
   height: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: contain;
+  object-position: center;
 }
 main.interno.noticia article figure figcaption {
   width: 100%;
@@ -900,8 +871,7 @@ footer .menu-mobile .redes {
   align-items: center;
   font-size: 24px;
   justify-content: center;
-  -moz-column-gap: 15px;
-       column-gap: 15px;
+  column-gap: 15px;
 }
 footer .menu-mobile .redes a {
   color: #095e4a;
@@ -944,6 +914,84 @@ footer nav ul li.destaque a:hover {
 }
 footer h4 {
   color: #095e4a;
+}
+
+.chamada-placar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+  position: relative;
+}
+.chamada-placar .conteudo {
+  width: min-content;
+  border-radius: 20px 20px 60px 60px;
+  background: #fff;
+  display: grid;
+  grid-template-columns: 250px 230px 250px;
+  overflow: hidden;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+.chamada-placar .conteudo .time {
+  padding: 10px 50px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 15px;
+}
+.chamada-placar .conteudo .time .bandeira {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.chamada-placar .conteudo .time h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  color: #000;
+}
+.chamada-placar .conteudo .placar {
+  font-size: 42px;
+  color: #fff;
+  font-weight: bold;
+  background-image: url(../layout/img/fundo-placar.png);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 70px;
+}
+.chamada-placar .status {
+  margin-bottom: -30px;
+  position: absolute;
+  height: 30px;
+  border-radius: 0 0 15px 15px;
+  background: #e6e6e6;
+  bottom: 0;
+  padding: 0 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+.chamada-placar .campeanato {
+  top: 0;
+  margin-top: -30px;
+  background: #e6e6e6;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 10px;
+  position: absolute;
+  height: 30px;
+  border-radius: 15px 15px 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home .chamada-placar {
+  margin-top: 70px;
 }
 
 @media screen and (max-width: 768px) {
@@ -999,9 +1047,7 @@ footer h4 {
     color: #095e4a;
     align-items: center;
     justify-content: center;
-    height: -moz-min-content !important;
     height: min-content !important;
-    width: -moz-min-content !important;
     width: min-content !important;
     margin: 0px !important;
     padding: 0px !important;
@@ -1013,8 +1059,7 @@ footer h4 {
     display: flex !important;
     align-items: center;
     justify-content: flex-end;
-    -moz-column-gap: 15px;
-         column-gap: 15px;
+    column-gap: 15px;
   }
   header .menu-mobile .chamada-radio {
     margin-top: -2px !important;
@@ -1087,4 +1132,6 @@ footer h4 {
     grid-template-columns: 1fr !important;
     row-gap: 0px !important;
   }
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
