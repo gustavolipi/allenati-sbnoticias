@@ -1,0 +1,99 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-01-21 07:18:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 07:21:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:24:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:25:22 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:25:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:25:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:25:31 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:25:39 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:25:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:25:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:26:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:29:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:47:41 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2025-01-21 07:47:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 07:47:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:48:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:49:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:49:21 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 07:53:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 07:53:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 08:01:39 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2025-01-21 08:01:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 08:02:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 08:06:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 08:06:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 08:06:59 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2025-01-21 08:10:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 08:15:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 08:15:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 08:18:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 08:40:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 09:32:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 09:48:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 09:49:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 09:58:58 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 11:48:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 12:52:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 12:55:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 12:56:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 13:59:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 14:00:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:01:10 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2025-01-21 14:03:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:08:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:12:55 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2025-01-21 14:12:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 14:13:36 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:23:52 --> Severity: error --> Exception: Cannot access offset of type string on string /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/controllers/Midia.php 26
+ERROR - 2025-01-21 14:33:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:39:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:44:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:52:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 14:52:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 14:53:50 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2025-01-21 15:28:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 15:35:50 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 15:36:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 15:41:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 15:42:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 15:51:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 16:03:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 16:08:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 16:43:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 16:43:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 16:48:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 16:53:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 17:05:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 17:23:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 17:26:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 17:31:32 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 17:48:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 17:51:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 18:05:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 18:05:26 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2025-01-21 18:05:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 18:05:35 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2025-01-21 18:11:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 18:19:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 18:34:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 18:37:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 19:54:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 19:54:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 19:54:43 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 19:54:45 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2025-01-21 20:10:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 20:13:49 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 20:28:49 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 20:54:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 21:27:18 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2025-01-21 21:27:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 21:29:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 21:32:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 21:37:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 21:47:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 23:16:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-01-21 23:27:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-01-21 23:27:08 --> 404 Page Not Found: Assets/admin

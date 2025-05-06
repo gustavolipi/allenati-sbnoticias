@@ -81,7 +81,8 @@ header .container nav ul {
   list-style: none;
   display: flex;
   align-items: center;
-  column-gap: 15px;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
 }
 header .container nav ul li {
   position: relative;
@@ -109,7 +110,8 @@ header .container .acessos {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  column-gap: 15px;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
 }
 header .container .acessos .chamada-radio {
   cursor: pointer;
@@ -122,7 +124,8 @@ header .container .acessos .redes {
   display: flex;
   align-items: center;
   justify-content: center;
-  column-gap: 10px;
+  -moz-column-gap: 10px;
+       column-gap: 10px;
   font-size: 24px;
   color: #095e4a;
 }
@@ -136,7 +139,8 @@ header .container .acessos nav {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  column-gap: 15px;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
 }
 .publicidade {
   width: 100%;
@@ -183,6 +187,7 @@ main .chamadaTitulo h2 {
   align-items: center;
   justify-content: center;
   white-space: nowrap;
+  width: -moz-min-content;
   width: min-content;
 }
 main .chamadas {
@@ -191,8 +196,10 @@ main .chamadas {
 main .chamadas .chamadaConteudo {
   width: 100%;
   height: 220px;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   transition: all 0.5s ease-out;
 }
 main .chamadas .chamadaLink {
@@ -241,8 +248,10 @@ main .chamadas .memorias .chamadaConteudo a .image {
 main .chamadas .memorias .chamadaConteudo a .image img {
   width: 100%;
   height: 230px;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   transition: all 0.5s ease-out;
 }
 main .chamadas .memorias .chamadaConteudo a .info {
@@ -296,8 +305,10 @@ main .chamadas .social .chamadaConteudo a .image {
 main .chamadas .social .chamadaConteudo a .image img {
   width: 100%;
   height: 230px;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   transition: all 0.5s ease-out;
 }
 main .chamadas .social .chamadaConteudo a .info {
@@ -386,7 +397,8 @@ main .chamadas .radio .chamadaConteudo video {
   background-image: url(../layout/img/loading-radio-brasilfm.jpg);
   background-position: center center;
   background-size: cover;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 main .chamadas .radio .chamadaLink {
   background-color: #ffed00;
@@ -404,7 +416,8 @@ main .ultimasNoticias article {
 main .ultimasNoticias article a {
   display: grid;
   grid-template-columns: 380px 1fr;
-  column-gap: 15px;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
 }
 main .ultimasNoticias article a figure {
   height: 200px;
@@ -416,8 +429,10 @@ main .ultimasNoticias article a figure {
 main .ultimasNoticias article a figure img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   transition: all 0.5s ease-out;
 }
 main .ultimasNoticias article a .info {
@@ -475,13 +490,15 @@ main .conteudomaislidads {
 main .conteudomaislidads .noticiasMaisLidas {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 30px;
+  -moz-column-gap: 30px;
+       column-gap: 30px;
   row-gap: 30px;
 }
 main .conteudomaislidads .noticiasMaisLidas article a {
   display: grid;
   grid-template-columns: 100px 1fr;
-  column-gap: 10px;
+  -moz-column-gap: 10px;
+       column-gap: 10px;
 }
 main .conteudomaislidads .noticiasMaisLidas article a figure {
   height: 80px;
@@ -493,8 +510,10 @@ main .conteudomaislidads .noticiasMaisLidas article a figure {
 main .conteudomaislidads .noticiasMaisLidas article a figure img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   transition: all 0.5s ease-out;
 }
 main .conteudomaislidads .noticiasMaisLidas article a .info {
@@ -565,25 +584,32 @@ main .redes ul li a {
   height: 30px;
   font-size: 18px;
 }
-main.home .destaques {
-  height: 50vh;
-  overflow: hidden;
-}
 main.home .destaques .owl-destaques {
   overflow: hidden;
+  height: 100%;
+}
+main.home .destaques .owl-destaques .owl-stage-outer,
+main.home .destaques .owl-destaques .owl-stage,
+main.home .destaques .owl-destaques .owl-item,
+main.home .destaques .owl-destaques .item {
+  height: 100%;
 }
 main.home .destaques .owl-destaques .owl-item {
   border-radius: 4px;
   overflow: hidden;
+  height: 100%;
 }
 main.home .destaques .owl-destaques .owl-item a {
   display: block;
+  height: 100%;
 }
 main.home .destaques .owl-destaques .owl-item a img {
-  height: 50vh;
+  height: 100%;
   width: 100%;
-  object-fit: cover;
-  object-position: center top;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center top;
+     object-position: center top;
   transition: all 0.5s ease-out;
 }
 main.home .destaques .owl-destaques .owl-item a .info {
@@ -649,8 +675,10 @@ main.home .destaques .outros a .thumb {
 main.home .destaques .outros a .thumb img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   transition: all 0.5s ease-out;
 }
 main.home .destaques .outros a .info {
@@ -689,6 +717,105 @@ main.home .destaques .outros a .info .titulo small {
 main.home .destaques .outros a:hover .thumb img {
   transform: scale(1.1);
   opacity: 1 !important;
+}
+main.home .destaques .classificados .chamadaTitulo {
+  border-bottom: 0px solid #04b0a1 !important;
+  margin-bottom: 0px !important;
+}
+main.home .destaques .classificados .chamadaTitulo h2 {
+  background-color: #04b0a1 !important;
+}
+main.home .destaques .classificados .chamadaConteudo {
+  background-color: #04b0a1 !important;
+  padding: 15px !important;
+  border-radius: 0px 4px 4px 4px;
+}
+main.home .destaques .classificados .chamadaConteudo a {
+  position: relative;
+  display: block;
+  height: 100px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 125px 1fr;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
+}
+main.home .destaques .classificados .chamadaConteudo a .image {
+  border-radius: 4px;
+  overflow: hidden;
+  width: 100%;
+  height: 100px;
+  background-color: #000;
+  overflow: hidden;
+}
+main.home .destaques .classificados .chamadaConteudo a .image img {
+  width: 100%;
+  height: 100px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  transition: all 0.5s ease-out;
+}
+main.home .destaques .classificados .chamadaConteudo a .info .segmento {
+  background-color: rgba(255, 255, 255, 0.702);
+  padding: 3px 7px;
+  font-size: 10px;
+  color: #000;
+}
+main.home .destaques .classificados .chamadaConteudo a .info h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 16px !important;
+  line-height: 21px !important;
+  font-weight: 500;
+  color: #fff !important;
+}
+main.home .destaques .classificados .chamadaConteudo a .info h2 small {
+  font-size: 14px !important;
+  font-weight: 100 !important;
+  line-height: 15px !important;
+  color: #fff !important;
+}
+main.home .destaques .classificados .chamadaConteudo a .info h2 small p {
+  font-size: 14px !important;
+  font-weight: 100 !important;
+  line-height: 15px !important;
+  color: #fff !important;
+}
+main.home .destaques .classificados .chamadaConteudo a:hover .image img {
+  transform: scale(1.1);
+  opacity: 1 !important;
+}
+main.home .destaques .classificados .chamadaConteudo .owl-item {
+  height: 100px;
+  overflow: hidden;
+}
+main.home .destaques .classificados .owl-nav {
+  position: absolute;
+  top: -40px;
+  font-size: 50px;
+  height: 25px;
+  width: 15px;
+  right: -5px;
+}
+main.home .destaques .classificados .owl-nav button {
+  color: #04b0a1;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+main.home .destaques .classificados .owl-nav button span {
+  height: 25px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  margin-top: -15px;
+}
+main.home .destaques .classificados .owl-nav button.owl-next {
+  right: 0px;
 }
 main.home .conteudo {
   padding: 0px 0px;
@@ -763,13 +890,15 @@ main.home .conteudo.conteudoartigos {
 main.home .conteudo.conteudoartigos .artigos {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 30px;
+  -moz-column-gap: 30px;
+       column-gap: 30px;
   row-gap: 15px;
 }
 main.home .conteudo.conteudoartigos .artigos article a {
   display: grid;
   grid-template-columns: 1fr;
-  column-gap: 10px;
+  -moz-column-gap: 10px;
+       column-gap: 10px;
 }
 main.home .conteudo.conteudoartigos .artigos article a .info {
   padding: 0px;
@@ -824,8 +953,10 @@ main.interno.revista .fotos .foto figure {
 main.interno.revista .fotos .foto figure img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
   transition: all 0.5s ease-out;
 }
 main.interno.revista .fotos .foto:hover figure img {
@@ -851,8 +982,10 @@ main.interno.noticia article figure {
 main.interno.noticia article figure img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
-  object-position: center;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: center;
+     object-position: center;
 }
 main.interno.noticia article figure figcaption {
   width: 100%;
@@ -860,6 +993,155 @@ main.interno.noticia article figure figcaption {
   background: #f3f3f3;
   padding: 5px;
   width: 100%;
+}
+main .classificados .menu-segmentos {
+  width: 100%;
+}
+main .classificados .menu-segmentos h3 {
+  background-color: #04b0a1;
+  color: #fff;
+  padding: 5px;
+  text-transform: uppercase;
+  margin: 0;
+}
+main .classificados .menu-segmentos h3 i {
+  display: none;
+}
+main .classificados .menu-segmentos ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  background-color: #f3f3f3;
+}
+main .classificados .menu-segmentos ul li {
+  cursor: pointer;
+}
+main .classificados .menu-segmentos ul li a {
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.6;
+}
+main .classificados .menu-segmentos ul li a:hover {
+  opacity: 1;
+}
+main .classificados .menu-segmentos ul li:nth-child(2n) {
+  background-color: #f3f3f3;
+}
+main .classificados .menu-segmentos ul li.active a {
+  opacity: 1;
+}
+main .classificados .anuncios {
+  max-width: 100%;
+}
+main .classificados .anuncios ul {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  row-gap: 30px;
+}
+main .classificados .anuncios ul li .item {
+  height: -moz-min-content;
+  height: min-content;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
+  display: grid;
+  grid-template-columns: 1fr;
+  border: 2px solid #fff;
+}
+main .classificados .anuncios ul li .item.image {
+  grid-template-columns: 150px 1fr;
+}
+main .classificados .anuncios ul li .item.image figure {
+  margin: 0px;
+  padding: 0px;
+  height: -moz-min-content;
+  height: min-content;
+}
+main .classificados .anuncios ul li .item.image figure img {
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: top;
+     object-position: top;
+}
+main .classificados .anuncios ul li .item .segmento {
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 3px 7px;
+  line-height: 13px;
+  pointer-events: auto;
+  color: #fff;
+  background-color: #000;
+  margin-bottom: 3px;
+}
+main .classificados .anuncios ul li .item .segmento a {
+  text-decoration: none;
+  color: inherit;
+}
+main .classificados .anuncios ul li .item h6 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #000;
+}
+main .classificados .anuncios ul li .item h6 a {
+  text-decoration: none;
+  color: inherit;
+}
+main .classificados .anuncios ul li .item h6 small {
+  display: block;
+  line-height: 16px;
+  font-weight: normal !important;
+  text-transform: none;
+}
+main .classificados .anuncios ul li .item p {
+  color: #7e7e7e;
+  margin-bottom: 5px;
+  text-transform: none;
+  word-break: break-word;
+}
+main .classificados .anuncios ul li .item strong {
+  color: #000;
+}
+main .classificados .anuncios ul li .item ul {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  margin-top: 5px;
+}
+main .classificados .anuncios ul li .item ul li a {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -moz-column-gap: 5px;
+       column-gap: 5px;
+  text-decoration: none;
+  color: inherit;
+}
+main .classificados .anuncios ul li .item ul li i {
+  width: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+main .classificados .anuncios ul li.destaque {
+  border: 2px solid #00b600;
+}
+main .classificados .anuncios ul li.destaque .item {
+  background-color: #f3f3f3;
+  padding: 10px;
+}
+main .classificados .anuncios ul li.destaque .item.image {
+  grid-template-columns: 270px 1fr;
 }
 
 footer .menu-mobile .chamada-radio,
@@ -871,7 +1153,8 @@ footer .menu-mobile .redes {
   align-items: center;
   font-size: 24px;
   justify-content: center;
-  column-gap: 15px;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
 }
 footer .menu-mobile .redes a {
   color: #095e4a;
@@ -924,6 +1207,7 @@ footer h4 {
   position: relative;
 }
 .chamada-placar .conteudo {
+  width: -moz-min-content;
   width: min-content;
   border-radius: 20px 20px 60px 60px;
   background: #fff;
@@ -938,12 +1222,14 @@ footer h4 {
   display: flex;
   align-items: center;
   justify-content: center;
-  column-gap: 15px;
+  -moz-column-gap: 15px;
+       column-gap: 15px;
 }
 .chamada-placar .conteudo .time .bandeira {
   width: 50px;
   height: 50px;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .chamada-placar .conteudo .time h2 {
   margin: 0;
@@ -989,12 +1275,61 @@ footer h4 {
   align-items: center;
   justify-content: center;
 }
+.chamada-placar .campeanato a {
+  position: absolute;
+  right: 0;
+  margin-right: -50px;
+  margin-top: -20px;
+}
+.chamada-placar .campeanato a img {
+  width: 50px;
+}
 
 .home .chamada-placar {
   margin-top: 70px;
 }
 
+@media screen and (max-width: 1200px) {
+  main .classificados .menu-segmentos h3 {
+    font-size: 18px !important;
+  }
+  main .classificados .anuncios ul li.destaque .item.image {
+    grid-template-columns: 150px 1fr !important;
+  }
+}
 @media screen and (max-width: 768px) {
+  .chamada-placar .campeanato {
+    margin: 0 60px;
+    margin-top: -30px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 12px;
+  }
+  .chamada-placar .status {
+    margin: 0 60px;
+    margin-bottom: -30px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 12px;
+  }
+  .chamada-placar .conteudo {
+    margin: 0 10px;
+    border-radius: 60px;
+    grid-template-columns: min-content max-content min-content;
+  }
+  .chamada-placar .conteudo .time {
+    flex-direction: column;
+  }
+  .chamada-placar .conteudo .time.visitante {
+    flex-direction: column-reverse;
+  }
+  .chamada-placar .conteudo .placar {
+    -o-object-fit: contain;
+       object-fit: contain;
+    background-position: center;
+    height: 100%;
+    padding: 0 5px;
+  }
   .publicidade.fullbanner-small {
     padding: 15px 0px !important;
   }
@@ -1047,7 +1382,9 @@ footer h4 {
     color: #095e4a;
     align-items: center;
     justify-content: center;
+    height: -moz-min-content !important;
     height: min-content !important;
+    width: -moz-min-content !important;
     width: min-content !important;
     margin: 0px !important;
     padding: 0px !important;
@@ -1059,7 +1396,8 @@ footer h4 {
     display: flex !important;
     align-items: center;
     justify-content: flex-end;
-    column-gap: 15px;
+    -moz-column-gap: 15px;
+         column-gap: 15px;
   }
   header .menu-mobile .chamada-radio {
     margin-top: -2px !important;
@@ -1069,7 +1407,9 @@ footer h4 {
   }
   header .menu-mobile .redes {
     font-size: 24px !important;
-    color: #095e4a;
+  }
+  header .menu-mobile .redes a {
+    color: #095e4a !important;
   }
   main.interno .title {
     margin-bottom: 15px !important;
@@ -1093,6 +1433,18 @@ footer h4 {
     position: fixed;
     z-index: 22;
     right: 14px;
+  }
+  main.home .destaques .classificados {
+    margin-top: 30px;
+  }
+  main.home .chamadas .row {
+    row-gap: 20px;
+  }
+  .conteudo.esporte .destaques .row {
+    row-gap: 20px;
+  }
+  .conteudo.esporte .destaques .owl-destaques .owl-item a img {
+    height: 300px !important;
   }
   .conteudo .ultimasNoticias a {
     grid-template-columns: 100px 1fr !important;
@@ -1132,6 +1484,28 @@ footer h4 {
     grid-template-columns: 1fr !important;
     row-gap: 0px !important;
   }
-}
-
-/*# sourceMappingURL=main.css.map */
+  main .classificados .menu-segmentos {
+    margin-bottom: 15px;
+  }
+  main .classificados .menu-segmentos h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  main .classificados .menu-segmentos h3 i {
+    display: block;
+  }
+  main .classificados .menu-segmentos #segmentos {
+    display: none;
+  }
+  main .classificados .anuncios {
+    margin-bottom: 30px;
+  }
+  main .classificados .anuncios ul li.destaque .item {
+    grid-template-columns: 1fr !important;
+    row-gap: 10px !important;
+  }
+  main .classificados .anuncios ul li.destaque .item.image {
+    grid-template-columns: 150px 1fr !important;
+  }
+}/*# sourceMappingURL=main.css.map */

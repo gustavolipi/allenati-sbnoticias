@@ -15,7 +15,7 @@
         <li>
             <a href="<?= base_url('revistas') ?>" (click)="mostrarMenu()">Coluna Social</a>
         </li>
-        <li style="display:none">
+        <li>
             <a href="<?= base_url('classificados') ?>" (click)="mostrarMenu()">Classificados</a>
         </li>
     </ul>

@@ -10,3 +10,9 @@ $('#plano').on("change", function(){
         $('#boxLogo').show();
     }
 });
+
+$(document).ready(function () {
+    $('.summernote').summernote({
+        height: 350
+    });
+});

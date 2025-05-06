@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-03-15 08:41:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-03-15 08:41:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 08:49:17 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2025-03-15 08:50:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 08:55:31 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 09:46:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 10:11:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 10:26:30 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 12:36:18 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 12:40:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 12:51:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 12:54:24 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:22:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-03-15 13:22:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:22:16 --> 404 Page Not Found: Placar/favicon.ico
+ERROR - 2025-03-15 13:24:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:24:29 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:25:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:27:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:28:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:28:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:28:59 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2025-03-15 13:29:12 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:29:12 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2025-03-15 13:32:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:35:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:40:42 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:52:17 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 13:52:44 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 15:14:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 15:18:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 15:19:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 16:27:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 16:33:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 16:34:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 17:46:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 18:25:19 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 18:25:54 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2025-03-15 21:16:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-03-15 21:17:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 21:39:49 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2025-03-15 21:56:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 22:01:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 22:11:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 22:12:25 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 22:30:40 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-03-15 23:45:38 --> 404 Page Not Found: Faviconico/index

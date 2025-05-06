@@ -33,6 +33,25 @@ $(document).ready(function () {
     })
   }
 
+  if ($('.owl-classificados').length) {
+    $(".owl-classificados").owlCarousel({
+      loop: true,
+      nav: true,
+      dots: false,
+      autoplay: true,
+      margin: 30,
+      responsiveClass: true,
+      responsive: {
+        0: {
+          items: 1,
+        },
+        768 : {
+          items: 2
+      }
+      }
+    })
+  }
+
   if ($('#paginacao').length) {
     var load = false
     var url = window.location.search;
@@ -57,4 +76,8 @@ $(document).ready(function () {
       }
     });
   }
+
+  $(".menu-segmentos h3").click(function () {
+    $("#segmentos").toggle();
+  });
 });

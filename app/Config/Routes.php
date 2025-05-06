@@ -30,3 +30,7 @@ $routes->get('/revista/(:any)/(:any)', 'Revista::index/$1/$2');
 $routes->get('/tv-sbn', 'Tv::index');
 
 $routes->get('/api/live-youtube-json', 'Api::youtubelive');
+
+$routes->get('/classificados', 'Classificados::index');
+$routes->get('/classificados/(:any)/(:any)', 'Classificados::index/$1');
+$routes->get('/classificado/(:any)/(:any)', 'Classificados::ver/$1');

@@ -50,6 +50,7 @@ class Placar extends MY_Controller
         if ($_POST) {
             $post = getPost();
             $dados = array(
+                'link_transmissao'     => @$post['link_transmissao'],
                 'nome_campeonato'     => @$post['nome_campeonato'],
                 'sigla_dc'   => @$post['sigla_dc'],
                 'sigla_vt'      => @$post['sigla_vt'],

@@ -6,7 +6,7 @@ $seo = array(
 );
 ?>
 <?= view('templates/header', array('seo' => $seo)) ?>
-<?= view('templates/publicidade', array('tipo' => 'fullbanner-small')) ?>
+<?= view('templates/publicidade', array('tipo' => 'fullbanner-small', 'tv' => 1)) ?>
 <main class="interno noticia">
 
     <div class="conteudo">

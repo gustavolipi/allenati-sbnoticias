@@ -1,9 +1,12 @@
 <?= view('templates/header', array()) ?>
-<?= view('templates/publicidade', array('tipo' => 'fullbanner-small')) ?>
 
 <?php
 if($tipo == 'esportes' || $tipo == 'esporte'){
+    echo view('templates/publicidade', array('tipo' => 'fullbanner-small', 'esporte' => 1));
     echo view('templates/chamada-placar');
+   
+}else{
+    echo view('templates/publicidade', array('tipo' => 'fullbanner-small', 'noticia' => 1));
 }
 ?>
 

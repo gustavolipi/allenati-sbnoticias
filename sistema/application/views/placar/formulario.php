@@ -78,6 +78,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     </div>
                                 </div>
                                 <div class="form-group">
+                                    <label class="control-label col-md-3">Link da transmissão</label>
+                                    <div class="col-md-9">
+                                        <input type="text"
+                                               name="link_transmissao"
+                                               placeholder="Link da transmissão"
+                                               value="<?= @$registro->link_transmissao ?>"
+                                               class="form-control"
+                                               >
+                                    </div>
+                                </div>
+                                <div class="form-group">
                                     <label class="control-label col-md-3">Situação</label>
                                     <div class="col-md-9">
                                         <select class="form-control" name="status" id="status">

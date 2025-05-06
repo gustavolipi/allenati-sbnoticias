@@ -105,7 +105,7 @@
 <?php
 if (@$js) {
     ?>
-    <script src="<?= base_url('public/js/' . $js) ?>" crossorigin="anonymous"></script>
+    <script src="<?= base_url('public/js/' . $js) ?>?v=<?=date('YmdHi')?>" crossorigin="anonymous"></script>
     <?php
 }
 ?>

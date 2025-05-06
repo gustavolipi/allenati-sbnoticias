@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-02-23 08:12:40 --> 404 Page Not Found: Wp-admin/includes
+ERROR - 2025-02-23 08:12:45 --> 404 Page Not Found: Wp-includes/sodium_compat
+ERROR - 2025-02-23 08:13:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-02-23 08:15:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 09:27:50 --> 404 Page Not Found: Gophp/index
+ERROR - 2025-02-23 09:27:56 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2025-02-23 09:28:01 --> 404 Page Not Found: Wp-includes/assets
+ERROR - 2025-02-23 09:38:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 09:38:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-02-23 09:38:57 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 09:38:59 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2025-02-23 09:45:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 10:16:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 10:16:20 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 10:34:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 10:53:04 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 11:07:33 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 13:15:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 13:16:26 --> 404 Page Not Found: Esporte/favicon.ico
+ERROR - 2025-02-23 13:33:35 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 13:39:02 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 13:39:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2025-02-23 13:39:05 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2025-02-23 13:44:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 14:50:00 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 15:00:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2025-02-23 15:14:25 --> 404 Page Not Found: Assets/admin

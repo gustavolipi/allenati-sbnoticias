@@ -1,5 +1,5 @@
 <?= view('templates/header', array()) ?>
-<?= view('templates/publicidade', array('tipo' => 'fullbanner-small')) ?>
+<?= view('templates/publicidade', array('tipo' => 'fullbanner-small', 'interna' => 1)) ?>
 <main class="interno noticia">
 
     <div class="conteudo">

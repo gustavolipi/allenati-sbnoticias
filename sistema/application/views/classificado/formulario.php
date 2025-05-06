@@ -82,10 +82,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                             if (@$categorias) {
                                                 foreach ($categorias as $item => $value) {
                                             ?>
-                                            <option value="<?= $value->id ?>"
-                                                <?= (@$value->id == @$registro->CATEGORIA_ID ? 'selected' : NULL) ?>>
-                                                <?= $value->titulo ?>
-                                            </option>
+                                                    <option value="<?= $value->id ?>"
+                                                        <?= (@$value->id == @$registro->CATEGORIA_ID ? 'selected' : NULL) ?>>
+                                                        <?= $value->titulo ?>
+                                                    </option>
                                             <?php
                                                 }
                                             }
@@ -118,7 +118,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                 <div class="form-group">
                                     <label class="control-label col-md-3">Descrição</label>
                                     <div class="col-md-9">
-                                        <textarea name="descricao" id="descricao" class="form-control"
+                                        <textarea name="descricao" class="form-control summernote"
                                             placeholder="Descrição"><?= @$registro->DESCRICAO ?></textarea>
                                     </div>
                                 </div>
@@ -145,23 +145,23 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                         </div>
                                     </div>
                                 </div>
-                                <div class="form-group" id="boxLogo" style="display: <?= @$registro->PLANO == 'ouro' ? 'block' : 'none' ?>;">
+                                <div class="form-group" id="boxLogo" style="display: <?= @$registro->PLANO == 'ouro' ||  @$registro->PLANO == 'prata' ? 'block' : 'none' ?>;">
                                     <label class="control-label col-md-3">Logo</label>
                                     <div class="col-md-9">
                                         <?php
                                         if (@$registro->ARQUIVO) {
                                             $imagem = url_tikers . 'classificados/' . @$registro->ARQUIVO;
                                         ?>
-                                        <div class="btn-group" role="group">
-                                            <a href="<?= base_url('classificado/acao/' . $registro->ID . '/excluir-logo') ?>"
-                                                class="btn btn-secondary">Excluir</a>
-                                            <button type="button" class="btn btn-secondary cropImage"
-                                                data-image="<?= $imagem ?>" data-target="#myModal">Editar</button>
-                                        </div>
+                                            <div class="btn-group" role="group">
+                                                <a href="<?= base_url('classificado/acao/' . $registro->ID . '/excluir-logo') ?>"
+                                                    class="btn btn-secondary">Excluir</a>
+                                                <button type="button" class="btn btn-secondary cropImage"
+                                                    data-image="<?= $imagem ?>" data-target="#myModal">Editar</button>
+                                            </div>
 
-                                        <br>
+                                            <br>
 
-                                        <img src="<?= $imagem . '?v=' . date('YmdHis') ?>" width="100" alt="">
+                                            <img src="<?= $imagem . '?v=' . date('YmdHis') ?>" width="100" alt="">
                                         <?php
                                         }
                                         ?>

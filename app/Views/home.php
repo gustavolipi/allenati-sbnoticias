@@ -1,7 +1,5 @@
 <?= view('templates/header', array()) ?>
-<?= view('templates/publicidade', array('tipo' => 'fullbanner-small')) ?>
-
-
+<?= view('templates/publicidade', array('tipo' => 'fullbanner-small', 'capa' => 1)) ?>
 
 <main class="home">
 
@@ -35,31 +33,42 @@
                             ?>
                         </div>
                     </div>
-                    <?php
-                    foreach ($partes[1] as $item => $value) {
-                    ?>
-                        <div class="col-md-3 col-12">
-                            <div class="outros">
-                                <a href="<?= base_url('noticia/' . url_title(convert_accented_characters($value->TITULO)) . '/' . $value->ID) ?>" title="<?= $value->TITULO ?>">
-                                    <div class="thumb">
-                                        <img src="<?= $tickers . 'imagens/' . $value->FOTO ?>">
+
+                    <div class="col-md-6 col-12">
+                        <div class="row">
+                            <?php
+                            foreach ($partes[1] as $item => $value) {
+                            ?>
+                                <div class="col-md-6 col-12">
+                                    <div class="outros">
+                                        <a href="<?= base_url('noticia/' . url_title(convert_accented_characters($value->TITULO)) . '/' . $value->ID) ?>" title="<?= $value->TITULO ?>">
+                                            <div class="thumb">
+                                                <img src="<?= $tickers . 'imagens/' . $value->FOTO ?>">
+                                            </div>
+                                            <div class="info">
+                                                <div>
+                                                    <span class="cat"><?= $value->CATEGORIA ?></span>
+                                                    <span><?= $value->DATACOMPLETA ?></span>
+                                                </div>
+                                                <h3 class="titulo">
+                                                    <?= $value->TITULO ?>
+                                                    <small style="display: none !important"><?= mb_strimwidth(preg_replace("/\r|\n/", "", strip_tags($value->CONTEUDO)), 0, 200, "") ?></small>
+                                                </h3>
+                                            </div>
+                                        </a>
                                     </div>
-                                    <div class="info">
-                                        <div>
-                                            <span class="cat"><?= $value->CATEGORIA ?></span>
-                                            <span><?= $value->DATACOMPLETA ?></span>
-                                        </div>
-                                        <h3 class="titulo">
-                                            <?= $value->TITULO ?>
-                                            <small><?= mb_strimwidth(preg_replace("/\r|\n/", "", strip_tags($value->CONTEUDO)), 0, 200, "") ?></small>
-                                        </h3>
-                                    </div>
-                                </a>
+                                </div>
+                            <?php
+                            }
+                            ?>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-12">
+                                <?= view('templates/chamada-conteudo-classificados', array()) ?>
                             </div>
                         </div>
-                    <?php
-                    }
-                    ?>
+                    </div>
                 </div>
             </div>
         </div>

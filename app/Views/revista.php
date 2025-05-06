@@ -14,7 +14,7 @@ if ($registro) {
 }
 ?>
 <?= view('templates/header', array('seo' => $seo)) ?>
-<?= view('templates/publicidade', array('tipo' => 'fullbanner-small')) ?>
+<?= view('templates/publicidade', array('tipo' => 'fullbanner-small', 'revistas' => 1)) ?>
 <main class="interno revista">
 
     <div class="conteudo">

@@ -653,3 +653,181 @@ ERROR - 2024-12-11 18:46:47 --> 404 Page Not Found: W_selfservice/oauthservlet
 ERROR - 2024-12-11 18:46:56 --> 404 Page Not Found: W_selfservice/oauthservlet
 ERROR - 2024-12-11 18:48:28 --> 404 Page Not Found: Assets/admin
 ERROR - 2024-12-11 18:52:06 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 18:55:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 18:58:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 19:02:31 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 19:02:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2024-12-11 19:09:04 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 19:09:04 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 19:11:47 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 19:11:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-12-11 19:11:55 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 19:11:55 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2024-12-11 19:12:01 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 19:12:01 --> Severity: error --> Exception: Unsupported operand types: string + int /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Model.php 1703
+ERROR - 2024-12-11 19:12:10 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-12-11 19:13:15 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 19:14:45 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 19:18:07 --> 404 Page Not Found: W_selfservice/oauthservlet
+ERROR - 2024-12-11 19:22:49 --> 404 Page Not Found: Travel-detailphp/index
+ERROR - 2024-12-11 19:23:21 --> 404 Page Not Found: Index/gettunnel
+ERROR - 2024-12-11 19:25:21 --> 404 Page Not Found: Falecimento/favicon.ico
+ERROR - 2024-12-11 19:27:22 --> 404 Page Not Found: Tcpphp/index
+ERROR - 2024-12-11 19:30:19 --> 404 Page Not Found: Server/CmxUser.php
+ERROR - 2024-12-11 19:31:42 --> 404 Page Not Found: Servicedo/index
+ERROR - 2024-12-11 19:31:43 --> 404 Page Not Found: Servicedo/index
+ERROR - 2024-12-11 19:32:35 --> 404 Page Not Found: Db_dumpphp/index
+ERROR - 2024-12-11 19:34:21 --> 404 Page Not Found: Ocpu/library
+ERROR - 2024-12-11 19:36:41 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 19:36:54 --> 404 Page Not Found: Plug/comment
+ERROR - 2024-12-11 19:37:26 --> 404 Page Not Found: Csz-cms/plugin
+ERROR - 2024-12-11 19:45:27 --> 404 Page Not Found: Upload/test
+ERROR - 2024-12-11 19:45:50 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 19:45:53 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 19:46:02 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 19:46:18 --> 404 Page Not Found: Metadata/v1.json
+ERROR - 2024-12-11 19:49:06 --> 404 Page Not Found: AurallRECMonitor/services
+ERROR - 2024-12-11 20:27:03 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2024-12-11 20:27:03 --> 404 Page Not Found: Run/index
+ERROR - 2024-12-11 21:11:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-12-11 21:11:38 --> 404 Page Not Found: Falecimento/favicon.ico
+ERROR - 2024-12-11 21:26:25 --> 404 Page Not Found: Json-rpc/index
+ERROR - 2024-12-11 21:27:04 --> 404 Page Not Found: Http-bind/index
+ERROR - 2024-12-11 21:27:15 --> 404 Page Not Found: Http-bind/index
+ERROR - 2024-12-11 21:31:04 --> 404 Page Not Found: Sys/ui
+ERROR - 2024-12-11 21:31:54 --> 404 Page Not Found: Assets/admin
+ERROR - 2024-12-11 21:31:57 --> 404 Page Not Found: Noticias/favicon.ico
+ERROR - 2024-12-11 21:32:50 --> 404 Page Not Found: V1/app
+ERROR - 2024-12-11 21:34:02 --> 404 Page Not Found: SystemController/showOrDownByurl.do
+ERROR - 2024-12-11 21:34:03 --> 404 Page Not Found: SystemController/showOrDownByurl.do
+ERROR - 2024-12-11 21:39:33 --> 404 Page Not Found: Ajaxphp/index
+ERROR - 2024-12-11 21:39:34 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 21:39:34 --> 404 Page Not Found: Ajaxphp/index
+ERROR - 2024-12-11 21:39:39 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 21:41:17 --> 404 Page Not Found: SysShell/index
+ERROR - 2024-12-11 21:42:21 --> 404 Page Not Found: IOffice/prg
+ERROR - 2024-12-11 21:42:35 --> 404 Page Not Found: MUP/index
+ERROR - 2024-12-11 21:43:02 --> Severity: Warning --> Undefined array key "acao" /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/controllers/Login.php 13
+ERROR - 2024-12-11 21:43:02 --> Severity: Warning --> Undefined array key "acao" /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/controllers/Login.php 15
+ERROR - 2024-12-11 21:45:38 --> 404 Page Not Found: Cgi-bin/login.cgi
+ERROR - 2024-12-11 21:45:58 --> 404 Page Not Found: FileDownload/index
+ERROR - 2024-12-11 21:45:58 --> 404 Page Not Found: FileDownload/index
+ERROR - 2024-12-11 21:47:24 --> 404 Page Not Found: Manager/radius
+ERROR - 2024-12-11 21:47:36 --> 404 Page Not Found: 2pz9yC7XAmAVLjmHBhmtnRIVvKBtxt/index
+ERROR - 2024-12-11 21:47:36 --> 404 Page Not Found: Manager/radius
+ERROR - 2024-12-11 21:48:10 --> 404 Page Not Found: Imc/primepush
+ERROR - 2024-12-11 21:49:02 --> 404 Page Not Found: Two_fact_auth/index
+ERROR - 2024-12-11 21:49:33 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 21:49:45 --> 404 Page Not Found: Lcms/index.php
+ERROR - 2024-12-11 21:50:27 --> 404 Page Not Found: Json-rpc/index
+ERROR - 2024-12-11 21:51:30 --> 404 Page Not Found: Dav/server.php
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Wiki/pages
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Pages/createpage.action
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Pages/createpage-entervariables.action
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Confluence/pages
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Wiki/pages
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Confluence/pages
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Pages/createpage-entervariables.action
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Template/custom
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Users/user-dark-features
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Pages/createpage-entervariables.action
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Templates/editor-preload-container
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Pages/doenterpagevariables.action
+ERROR - 2024-12-11 21:51:36 --> 404 Page Not Found: Pages/templates2
+ERROR - 2024-12-11 21:51:41 --> 404 Page Not Found: Webtools/control
+ERROR - 2024-12-11 21:54:21 --> 404 Page Not Found: Http-bind/index
+ERROR - 2024-12-11 21:58:09 --> 404 Page Not Found: Debugphp/index
+ERROR - 2024-12-11 21:58:13 --> 404 Page Not Found: Sys/ui
+ERROR - 2024-12-11 21:59:16 --> 404 Page Not Found: FileDownload/index
+ERROR - 2024-12-11 21:59:38 --> 404 Page Not Found: FileDownload/index
+ERROR - 2024-12-11 22:00:58 --> 404 Page Not Found: Imc/javax.faces.resource
+ERROR - 2024-12-11 22:01:20 --> 404 Page Not Found: Netcore_getcgi/index
+ERROR - 2024-12-11 22:01:20 --> 404 Page Not Found: Ioffice/prg
+ERROR - 2024-12-11 22:07:12 --> 404 Page Not Found: Http/index.php
+ERROR - 2024-12-11 22:07:28 --> 404 Page Not Found: Direct/polling
+ERROR - 2024-12-11 22:08:07 --> 404 Page Not Found: WAN_wanhtm/index
+ERROR - 2024-12-11 22:11:51 --> 404 Page Not Found: MUP/index
+ERROR - 2024-12-11 22:12:23 --> Severity: Warning --> Undefined array key "acao" /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/controllers/Login.php 13
+ERROR - 2024-12-11 22:12:23 --> Severity: Warning --> Undefined array key "acao" /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/controllers/Login.php 15
+ERROR - 2024-12-11 22:14:09 --> 404 Page Not Found: User/requireLogin
+ERROR - 2024-12-11 22:14:51 --> 404 Page Not Found: Data/sys-common
+ERROR - 2024-12-11 22:14:58 --> 404 Page Not Found: AdminPage/remote
+ERROR - 2024-12-11 22:19:25 --> 404 Page Not Found: Login/SAML
+ERROR - 2024-12-11 22:20:36 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 22:20:41 --> 404 Page Not Found: Debugphp/index
+ERROR - 2024-12-11 22:20:42 --> 404 Page Not Found: Debugphp/index
+ERROR - 2024-12-11 22:20:45 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 22:20:46 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 22:21:51 --> 404 Page Not Found: Netcore_getcgi/index
+ERROR - 2024-12-11 22:21:59 --> 404 Page Not Found: SystemController/showOrDownByurl.do
+ERROR - 2024-12-11 22:21:59 --> 404 Page Not Found: SystemController/showOrDownByurl.do
+ERROR - 2024-12-11 22:22:52 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 22:35:52 --> 404 Page Not Found: Opennms/j_spring_security_check
+ERROR - 2024-12-11 22:38:05 --> 404 Page Not Found: AdminPage/remote
+ERROR - 2024-12-11 22:39:14 --> 404 Page Not Found: Prweb/index
+ERROR - 2024-12-11 22:39:25 --> 404 Page Not Found: Login/userverify.cgi
+ERROR - 2024-12-11 22:39:35 --> 404 Page Not Found: Boaform/admin
+ERROR - 2024-12-11 22:39:43 --> 404 Page Not Found: Cgi-bin/Maintain
+ERROR - 2024-12-11 22:40:15 --> 404 Page Not Found: Pmb/opac_css
+ERROR - 2024-12-11 22:40:21 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 22:40:21 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 22:40:40 --> 404 Page Not Found: Lcms/index.php
+ERROR - 2024-12-11 22:40:45 --> 404 Page Not Found: WebServices/SIMMaintainService.asmx
+ERROR - 2024-12-11 22:42:06 --> 404 Page Not Found: Properties-listphp/index
+ERROR - 2024-12-11 22:42:08 --> 404 Page Not Found: Properties-listphp/index
+ERROR - 2024-12-11 22:42:14 --> 404 Page Not Found: Login/SAML
+ERROR - 2024-12-11 22:42:33 --> 404 Page Not Found: App/index
+ERROR - 2024-12-11 22:45:09 --> 404 Page Not Found: QHaspx/index
+ERROR - 2024-12-11 22:46:34 --> 404 Page Not Found: WAN_wanhtm/index
+ERROR - 2024-12-11 22:46:35 --> 404 Page Not Found: WAN_wanhtm/index
+ERROR - 2024-12-11 22:49:29 --> 404 Page Not Found: Upload/UploadResourcePic.ashx
+ERROR - 2024-12-11 22:50:15 --> 404 Page Not Found: 2pz9y818oHJRcoocMf5w0tNuHcbtxt/index
+ERROR - 2024-12-11 22:52:23 --> 404 Page Not Found: Product-detailsphp/index
+ERROR - 2024-12-11 22:53:38 --> 404 Page Not Found: Product-detailsphp/index
+ERROR - 2024-12-11 22:57:20 --> 404 Page Not Found: Adminphp/index
+ERROR - 2024-12-11 23:00:45 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 23:02:40 --> 404 Page Not Found: J_security_check/index
+ERROR - 2024-12-11 23:05:03 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 23:05:33 --> 404 Page Not Found: Pmb/opac_css
+ERROR - 2024-12-11 23:05:44 --> 404 Page Not Found: Prweb/index
+ERROR - 2024-12-11 23:08:40 --> 404 Page Not Found: Opennms/j_spring_security_check
+ERROR - 2024-12-11 23:09:45 --> 404 Page Not Found: Searchphp/index
+ERROR - 2024-12-11 23:09:54 --> 404 Page Not Found: QHaspx/index
+ERROR - 2024-12-11 23:10:11 --> 404 Page Not Found: WebServices/SIMMaintainService.asmx
+ERROR - 2024-12-11 23:16:37 --> 404 Page Not Found: Product-detailsphp/index
+ERROR - 2024-12-11 23:17:16 --> 404 Page Not Found: Seeyon/main.do
+ERROR - 2024-12-11 23:17:37 --> 404 Page Not Found: Boaform/admin
+ERROR - 2024-12-11 23:27:55 --> 404 Page Not Found: Druid/indexer
+ERROR - 2024-12-11 23:28:03 --> 404 Page Not Found: Nagiosxi/login.php
+ERROR - 2024-12-11 23:28:03 --> 404 Page Not Found: Nagiosxi/login.php
+ERROR - 2024-12-11 23:28:04 --> 404 Page Not Found: Nagiosxi/login.php
+ERROR - 2024-12-11 23:29:12 --> 404 Page Not Found: Cgi-bin/jarrewrite.sh
+ERROR - 2024-12-11 23:30:27 --> 404 Page Not Found: Searchphp/index
+ERROR - 2024-12-11 23:31:13 --> 404 Page Not Found: J_security_check/index
+ERROR - 2024-12-11 23:34:08 --> 404 Page Not Found: Php/ping.php
+ERROR - 2024-12-11 23:34:09 --> 404 Page Not Found: Directdata/direct
+ERROR - 2024-12-11 23:34:17 --> 404 Page Not Found: 2pz9y818oHJRcoocMf5w0tNuHcbtxt/index
+ERROR - 2024-12-11 23:35:20 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 23:37:11 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-12-11 23:37:11 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2024-12-11 23:37:11 --> 404 Page Not Found: Cgi-bin/DownloadCfg
+ERROR - 2024-12-11 23:37:12 --> 404 Page Not Found: Cgi-bin/DownloadCfg
+ERROR - 2024-12-11 23:39:51 --> 404 Page Not Found: Spre/auth
+ERROR - 2024-12-11 23:41:16 --> 404 Page Not Found: Search/index
+ERROR - 2024-12-11 23:41:41 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 23:41:49 --> 404 Page Not Found: Thruk/cgi-bin
+ERROR - 2024-12-11 23:42:43 --> 404 Page Not Found: Seeyon/main.do
+ERROR - 2024-12-11 23:44:05 --> 404 Page Not Found: Sslvpn/sslvpn_client.php
+ERROR - 2024-12-11 23:44:05 --> 404 Page Not Found: Sslvpn/arkam.txt
+ERROR - 2024-12-11 23:46:51 --> 404 Page Not Found: Cgi-bin/jarrewrite.sh
+ERROR - 2024-12-11 23:48:37 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 23:49:06 --> 404 Page Not Found: Loginphp/index
+ERROR - 2024-12-11 23:52:56 --> Severity: Warning --> Trying to access array offset on null /home/storage/9/44/9b/sbnoticias2/public_html/sistema/application/core/MY_Controller.php 13
+ERROR - 2024-12-11 23:53:54 --> 404 Page Not Found: Webapi/auth
+ERROR - 2024-12-11 23:53:55 --> 404 Page Not Found: Webapi/file
+ERROR - 2024-12-11 23:56:39 --> 404 Page Not Found: Api/system
+ERROR - 2024-12-11 23:57:29 --> 404 Page Not Found: Api/user
+ERROR - 2024-12-11 23:57:34 --> 404 Page Not Found: Zdm/cxf
+ERROR - 2024-12-11 23:57:41 --> 404 Page Not Found: Api/group
+ERROR - 2024-12-11 23:58:43 --> 404 Page Not Found: Cgi-bin/DownloadCfg
+ERROR - 2024-12-11 23:59:08 --> 404 Page Not Found: Php/ping.php

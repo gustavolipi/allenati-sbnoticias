@@ -47,7 +47,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <script src="<?php echo base_url() ?>assets/admin/pages/scripts/jquery.maskedinput.js" type="text/javascript"></script>
 
 <script>
-var base_url = '<?php echo base_url() ?>';
+var base_url = 'https://sistema.sbnoticias.com.br/';
 var base_site = 'https://sbnoticias.com.br';
 var url_tikers = '<?= url_tikers ?>';
 </script>

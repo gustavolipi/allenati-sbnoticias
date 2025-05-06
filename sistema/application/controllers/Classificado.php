@@ -105,8 +105,12 @@ class Classificado extends MY_Controller
                 ->get($id);
         }
 
-        $data['js'] = load_js(array('classificado_formulario.js'));
-        $data['css'] = load_css(array());
+
+        $data['js'] = load_js(array(
+            "../../../global/plugins/bootstrap-summernote/summernote.min.js",
+            'classificado_formulario.js?v=123'
+        ));
+        $data['css'] = load_css(array("../../../global/plugins/bootstrap-summernote/summernote.css"));
 
         $data['categorias'] = $this->Categorias_model->where('tipo', 1)->order_by('titulo', 'ASC')->get_all();
 
