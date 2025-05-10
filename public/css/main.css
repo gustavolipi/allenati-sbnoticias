@@ -599,6 +599,9 @@ main.home .destaques .owl-destaques .owl-item {
   overflow: hidden;
   height: 100%;
 }
+main.home .destaques .owl-destaques .owl-item .item {
+  position: relative;
+}
 main.home .destaques .owl-destaques .owl-item a {
   display: block;
   height: 100%;
@@ -606,13 +609,23 @@ main.home .destaques .owl-destaques .owl-item a {
 main.home .destaques .owl-destaques .owl-item a img {
   height: 100%;
   width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: center;
+     object-position: center;
+  transition: all 0.5s ease-out;
+  position: absolute;
+  z-index: 20;
+}
+main.home .destaques .owl-destaques .owl-item a img.blur {
+  z-index: 10;
+  filter: blur(10px);
+  inset: 0;
   -o-object-fit: cover;
      object-fit: cover;
-  -o-object-position: center top;
-     object-position: center top;
-  transition: all 0.5s ease-out;
 }
 main.home .destaques .owl-destaques .owl-item a .info {
+  z-index: 30;
   position: absolute;
   padding: 15px;
   bottom: 0;

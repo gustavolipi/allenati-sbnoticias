@@ -16,9 +16,10 @@
                             <?php
                             foreach ($partes[0] as $item => $value) {
                             ?>
-                                <div class="item">
+                                <div class="item" style="">
                                     <a href="<?= base_url('noticia/' . url_title(convert_accented_characters($value->TITULO)) . '/' . $value->ID) ?>" title="<?= $value->TITULO ?>">
                                         <img src="<?= $tickers . 'imagens/' . $value->FOTO ?>">
+                                        <img src="<?= $tickers . 'imagens/' . $value->FOTO ?>" class="blur">
                                         <div class="info">
                                             <div>
                                                 <span class="cat"><?= $value->CATEGORIA ?></span>

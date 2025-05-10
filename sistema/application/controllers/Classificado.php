@@ -57,6 +57,7 @@ class Classificado extends MY_Controller
                 'PLANO'         => @$post['plano'],
                 'CATEGORIA_ID'  => @$post['categoria_id'],
                 'TITULO'        => @$post['titulo'],
+                'EMAIL'         => @$post['email'],
                 'DESCRICAO'     => @$post['descricao'],
                 'TELEFONES'     => @$post['telefones'],
                 'DATAINICIO'    => DataFormatar(@$post['datainicio'], 'Y-m-d'),
